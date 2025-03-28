@@ -1,0 +1,252 @@
+.navbar{
+    padding-top: 25px;
+    padding-inline: 50px;
+    display: flex;
+    justify-content: end !important;
+   
+}
+
+.nave{
+    width: 15%;
+}
+
+.nave img{
+    width: 100%;
+    margin-left: 40px;
+}
+
+.home-page{
+    height: 100vh;
+    background-image: linear-gradient(90deg, rgba(15, 10, 5, 0) 0%, rgba(15, 10, 5, .793519)) ,url(../image/drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center center;
+    opacity: 1;
+}
+
+.home{
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    top: 250px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+}
+
+.home h1{
+    font-family: "Sen";
+    padding-block: 15px;
+    font-size: 58px;
+
+}
+
+.home .one {
+    font-size: 24px;
+    padding-bottom: 30px;
+
+}
+
+
+.home span{
+    text-align: center !important;
+}
+
+.btn1{
+    padding: 15px 28px;
+    background-color: #8e7754;
+    border: 2px solid transparent;
+    color: white;
+    font-family: "Sen";
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.btn2{
+    padding: 15px 28px;
+    color: #fff;
+    border-color: #Cfff;
+    background: none;
+    font-family: "Sen";
+    font-size: 16px;
+}
+
+
+.who{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.content{
+    display: flex
+    ;
+        flex-direction: column;
+        align-items: start;
+        text-align: left;
+        padding-left: 20px;
+}
+
+.photo{
+    width: 35%;
+}
+
+.photo img{
+    width: 100%;
+}
+
+.who-content{
+    margin-left: 50px;
+    margin-top: 45px;
+}
+.who-content p{
+    color: #686868;
+    padding-bottom: 25px;
+}
+
+
+.who-content h2{
+    font-family: "Sen";
+}
+
+.who-links{
+    padding-left: 40px;
+}
+.who-links li{
+    padding-block: 15px;
+}
+
+.who-links i{
+    padding-right: 9px;
+    font-size: 20px;
+}
+
+.who-links ul{
+    list-style: none;
+}
+
+.Location{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: #f8f8f8;
+}
+
+
+.Our-Location{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.Our-Location h2{
+    padding-bottom: 35px;
+    margin-top: 50px;
+    font-size: 35px;
+}
+
+
+.Our-Location p 
+{
+    color: #686868;
+}
+
+
+
+ .Photo2{
+    padding-left: 35px;
+
+}
+
+
+.Photo2 img{
+    width: 100%;
+}
+
+
+.blog .offers{
+    text-align: center;
+ 
+}
+
+
+.offers p {
+    text-align: center;
+}
+
+
+.card {
+    border: none;
+}
+
+.Contact-Information{
+    text-align: left;
+    margin-left: 50px;
+    padding-top: 35px;
+    
+}
+
+.Contact-Information h2{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.Contact-Information h3{
+    font-size: 18.73px;
+    font-weight: 700;
+
+}
+
+.Special-List{
+    list-style: none;
+}
+
+.Special-List li {
+    padding-block: 15px;
+}
+
+.footer{
+    background-color: #403d38;
+    padding-top: 45px;
+    gap: 5%;
+    width: 100%;
+    padding-inline: 15px;
+    padding-left: 55px;
+}
+
+.footer .col-md-3{
+    color: #686868;
+}
+
+.footer h2{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+
+.final i{
+    padding-inline: 15px;
+}
+
+.final{
+    background-color: #353330;
+}
+
+
+.final .links{
+    color: #686868
+}
+
+
+
+
+i{
+    color: #686868;
+}
+
+.two{
+    font-family: "Sen";
+}
